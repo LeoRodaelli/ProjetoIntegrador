@@ -1,6 +1,7 @@
+
 CREATE TABLE pessoas
-(nome varchar2(30)
-idade number(3)
-sexo varchar2(1)
-altura number(3)
-peso number(3));
+(NOME varchar2(30),
+IDADE number(3),
+SEXO varchar2(1),
+ALTURA number(3),
+PESO number(3));
