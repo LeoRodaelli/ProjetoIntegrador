@@ -40,32 +40,6 @@ class TelaCalculadora:
                 print(calculoFem)
 
 
-            #print(f'nome: {nome}')
-            # print(f'idade: {idade}')
-            #print(f'é do sexo masculino: {masculino}')
-            #print(f'é do sexo feminino: {feminino}')
-            #print(f'Altura: {altura}')
-            #print(f'Peso: {peso}')
-            #print(f'Atividade leve: {leve}')
-            #print(f'Atividade moderada: {moderada}')
-            #print(f'Atividade intensa: {intensa}')
-
-            #print(f'nome seu cálculo de calorias é')
-            #print(f'testeee{int(calculoResultado)}')
-
-           # if sg.Checkbox.key == 'masculino':
-
-                #print(calculoResultado)
-
-                #print(self.values)
-
-        # Calculo-> mulher= 665.1 + (9.56 x p) + (1.85 x cm) – (4.7 x anos) + atividade
-        # Calculo-> homem = 66.5 + (13.75 x p) + (5.003 x cm) - (6.77 x anos) + atividade
-
-
-        #return (int(calculo_resultado))
-
-
-
+          
 tela = TelaCalculadora()
 tela.Iniciar()
